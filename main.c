@@ -5,6 +5,7 @@
 
 int main(){
     printf("Hello, World!\n");
+    printf("This is a simple code for branch A");
     print("Error");
     return 0;
 }
